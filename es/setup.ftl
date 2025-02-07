@@ -1,7 +1,7 @@
 existing-setup-title = Configuración de Cerebro fallida
 existing-setup = ¡Cerebro ya ha sido configurado!
 
-help-title = Bienvenido a Cerebro!
+help-title = ¡Bienvenido a Cerebro!
 help-description = Aquí estan los comandos disponibles:
 help-footer = ¿Necesitas contactar con el desarrollador?
 
