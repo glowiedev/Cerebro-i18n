@@ -1,0 +1,1 @@
+ping-offline = Hors ligne
