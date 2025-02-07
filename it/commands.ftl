@@ -1,1 +1,26 @@
-
+commands-help-name = aiuto
+commands-help-description = Richiedi aiuto
+commands-start-name = inizia
+commands-start-description = Configura Cerebro
+commands-ping-name = ping
+commands-ping-description = Invia un ping al bot
+commands-subscription-name = abbonamento
+commands-subscription-description = Paga l'abbonamento
+commands-referral-name = invito
+commands-referral-description = Ottieni il tuo codice invito
+commands-kolcode-name = codiceinvito
+commands-kolcode-description = Configura un codice invito
+commands-githubcheck-name = controllogithub
+commands-githubcheck-description = Verifica l'affidabilità di una repository GitHub
+commands-githubdetailed-name = githubdetailed
+commands-githubdetailed-description = Verifica l'affidabilità di una repository GitHub
+commands-dex-name = dex
+commands-dex-description = Controlla se il dex è stato pagato
+commands-socials-name = socials
+commands-socials-description = Trova i social relativi al token
+commands-bundle-name = bundle
+commands-bundle-description = Controlla se un token è stato incluso in un bundle
+commands-heatmap-name = heatmap
+commands-heatmap-description = Cryptocurrency prices on a visually appealing heatmap
+commands-webca-name = webca
+commands-webca-description = Start a tracker to watch for ca deploys
