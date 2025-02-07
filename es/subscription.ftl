@@ -1,6 +1,6 @@
 subscriber-null = ¡Usa { $command } antes de iniciar algún otro comando!
 subscriber-expired = Tu suscripción ha expirado. Por favor, renueva tu suscripción.
-subscriber-error = Cerebero ah encontrado un error mientras intenta encontrar tu suscripción.
+subscriber-error = Cerebro ah encontrado un error mientras intenta encontrar tu suscripción.
 
 subscription-wallet = Billetera
 subscription-tap = Preciona paracopiar
