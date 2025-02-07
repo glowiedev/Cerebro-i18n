@@ -3,7 +3,7 @@ subscriber-expired = Tu suscripción ha expirado. Por favor, renueva tu suscripc
 subscriber-error = Cerebro ah encontrado un error mientras intenta encontrar tu suscripción.
 
 subscription-wallet = Billetera
-subscription-tap = Preciona paracopiar
+subscription-tap = Presiona paracopiar
 subscription-cost = Costo de la suscripción
 subscription-next = Siguiente pago: { $hours } horas
 subscription-next-dc = Siguiente pago
