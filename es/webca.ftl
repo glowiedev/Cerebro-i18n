@@ -1,0 +1,2 @@
+webca-scanning = ¡Comenzando escaneo de pagina web para enlaces de contrato! Expira en 48 horas.
+webca-error = ¡No se ha podido escanear la pagian web! La url es invalida o la pagina web es inalcanzable.
