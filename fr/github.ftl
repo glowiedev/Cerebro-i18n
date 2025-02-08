@@ -1,9 +1,9 @@
-github-error = Dépôt GitHub non valide !
+github-error = Dépôt GitHub non valide!
 github-authenticity = Score d'authenticité
 github-plagarised = { $plagarised ->
     [one] Susceptible d'être
     *[other] Il est peu probable qu'il soit
-} plagié !
+} plagié!
 
 github-repositories = Dépôts
 github-followers = Abonnés
@@ -21,5 +21,5 @@ github-commit-recent = Engagement récent
 github-flags-green = Drapeaux verts
 github-flags-red = Drapeaux rouges
 
-github-code-analysis-error = Pas assez de code pour créer une analyse !
+github-code-analysis-error = Pas assez de code pour créer une analyse!
 github-code-analysis = Analyse de code
