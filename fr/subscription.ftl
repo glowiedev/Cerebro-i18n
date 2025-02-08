@@ -5,7 +5,7 @@ subscriber-error = Cerebro a rencontré une erreur en essayant de trouver votre 
 subscription-wallet = Portefeuille
 subscription-tap = Appuyez pour copier
 subscription-cost = Coût de l'abonnement
-subscription-next = Prochaine charge : { $hours } heures
+subscription-next = Prochaine charge: { $hours } heures
 subscription-next-dc = Charge suivante
 subscription-referrals = Références
 
