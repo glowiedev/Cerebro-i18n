@@ -1,9 +1,9 @@
 existing-setup-title = Échec de l'installation de Cerebro
-existing-setup = Cerebro a déjà été configuré !
+existing-setup = Cerebro a déjà été configuré!
 
-help-title = Bienvenue à Cerebro !
-help-description = Voici les commandes disponibles :
-help-footer = Besoin de contacter le développeur ?
+help-title = Bienvenue à Cerebro!
+help-description = Voici les commandes disponibles:
+help-footer = Besoin de contacter le développeur?
 
 help-command-ping = Vérifiez si le bot est en ligne
 help-command-githubcheck = Vérifiez si un dépôt GitHub est authentique
