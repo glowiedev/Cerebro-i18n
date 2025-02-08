@@ -1,1 +1,1 @@
-socials-null = Aucun réseau social trouvé !
+socials-null = Aucun réseau social trouvé!
