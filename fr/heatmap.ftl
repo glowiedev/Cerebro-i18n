@@ -1,1 +1,1 @@
-heatmap-error = La carte thermique n'est actuellement pas disponible !
+heatmap-error = La carte thermique n'est actuellement pas disponible!
