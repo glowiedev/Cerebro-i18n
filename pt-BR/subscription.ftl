@@ -13,6 +13,6 @@ subscription-referral-link = O seu link de referal é
 subscription-referral-command = O seu comando de referal é
 subscription-referral = Você vai receber 10% de desconto acumulável para cada referal que virar um user pagante!
 
-subscription-kolcode-set = Código KOL setado com sucesso para { $kolcode }!
-subscription-kolcode-error = código KOL { $kolcode } não existe.
-subscription-kolcode = No momento o seu código KOL é { $kolcode }
+subscription-kolcode-set = KOL code setado com sucesso para { $kolcode }!
+subscription-kolcode-error = KOL code { $kolcode } não existe.
+subscription-kolcode = No momento o seu KOL code é { $kolcode }
