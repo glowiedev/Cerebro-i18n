@@ -4,5 +4,5 @@ bundle-is = { $bundled ->
 } bundled!
 
 bundle-total-sol = SOL Total
-bundle-total-supply = Fornecimento Total
+bundle-total-supply = Supply Total
 bundle = Bundle
