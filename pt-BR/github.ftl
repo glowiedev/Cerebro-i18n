@@ -2,7 +2,7 @@ github-error = Repositório do github inválido!
 github-authenticity = Pontos de autenticidade
 github-plagarised = { $plagarised ->
     [one] Provavelmente plagiado!
-    *[other] Não é provável que seja plágio!
+    *[other] Nenhum resquício de plágio encontrado!
 }
 
 github-repositories = Repositórios
