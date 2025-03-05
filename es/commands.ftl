@@ -24,3 +24,5 @@ commands-heatmap-name = heatmap
 commands-heatmap-description = Precios visualizados de las principales criptomonedas, heatmap
 commands-webca-name = webca
 commands-webca-description = Iniciar un seguimiento para ver despliegue de contratos
+commands-tax-name = impuesto
+commands-tax-description = Comprueba si un token tiene impuestos
