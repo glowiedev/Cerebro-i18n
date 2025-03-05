@@ -1,4 +1,4 @@
 tax = { $link } has { $tax ->
     [0] no tax!
-    *[other] { $tax }% tax
+    *[other] a { $tax }% tax
 }
