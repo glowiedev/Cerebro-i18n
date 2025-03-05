@@ -24,3 +24,5 @@ commands-heatmap-name = cartethermique
 commands-heatmap-description = Les prix des crypto-monnaies sur une carte thermique visuellement attrayante
 commands-webca-name = webca
 commands-webca-description = Démarrer un outil de suivi pour surveiller les déploiements de CA
+commands-tax-name = impôt
+commands-tax-description = Vérifiez si un jeton a une taxe
