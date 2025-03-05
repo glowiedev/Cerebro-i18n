@@ -24,3 +24,5 @@ commands-heatmap-name = heatmap
 commands-heatmap-description = Cryptocurrency prices on a visually appealing heatmap
 commands-webca-name = webca
 commands-webca-description = Start a tracker to watch for ca deploys
+commands-tax-name = tax
+commands-tax-description = Check if a token has tax
